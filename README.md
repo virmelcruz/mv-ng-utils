@@ -11,7 +11,7 @@ Services
         param:  'hello world!'
         result: 'Hello world!'
     title(string)
-        input:  'hello world!'
+        param:  'hello world!'
         result: 'Hello World!'
 
 **Array**
