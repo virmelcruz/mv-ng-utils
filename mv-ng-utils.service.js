@@ -1,7 +1,5 @@
 'use strict';
 
-'use strict';
-
 angular.module('mvAngularUtilities')
   .factory('mv', function () {
 
