@@ -3,6 +3,7 @@
 angular.module('mvAngularUtilities')
 .directive('overlay', function() {
 	return {
+		restrict: 'E',
 		link: function(scope, element, attrs){
 			element.attr('class','overlay');
 			var head = element.attr('head') ? element.attr('head') :
