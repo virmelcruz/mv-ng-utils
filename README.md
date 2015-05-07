@@ -1,7 +1,6 @@
 # mv-ng-utils
 
-Angular helpers
-==============
+Angular helpers written by Virmel and Mark
 
 Services
 --------------
