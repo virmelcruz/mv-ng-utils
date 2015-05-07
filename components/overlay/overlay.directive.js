@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('afaApp')
+angular.module('mvAngularUtilities')
 .directive('overlay', function() {
 	return {
 		link: function(scope, element, attrs){

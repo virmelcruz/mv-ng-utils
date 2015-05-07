@@ -1,6 +1,8 @@
 'use strict';
 
-angular.module('webclientApp')
+'use strict';
+
+angular.module('mvAngularUtilities')
   .factory('mv', function () {
 
     // String Utils
