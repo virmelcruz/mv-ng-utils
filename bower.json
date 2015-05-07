@@ -4,7 +4,7 @@
     },
     "name": "mv-ng-utils",
     "version": "0.1.1",
-    "main": ["./mv-ng-utils.module.js"],
+    "main": "mv-ng-utils.module.js",
     "dependencies": {
         "angular": ">=1"
     }    
